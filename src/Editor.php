@@ -28,7 +28,7 @@ abstract class Editor extends Field
         'vendor/laravel-admin-ext/code-mirror/codemirror-5.40.0/lib/codemirror.js',
         'vendor/laravel-admin-ext/code-mirror/codemirror-5.40.0/addon/edit/matchbrackets.js',
         'vendor/laravel-admin-ext/code-mirror/codemirror-5.40.0/addon/hint/show-hint.js',
-        'vendor/laravel-admin-ext/code-mirror/codemirror-5.40.0/mode/click/click.js',
+        'vendor/laravel-admin-ext/code-mirror/codemirror-5.40.0/mode/clike/clike.js',
     ];
 
     /**

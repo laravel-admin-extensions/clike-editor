@@ -23,7 +23,7 @@ class ClikeEditorServiceProvider extends ServiceProvider
             Form::extend('java', Java::class);
             Form::extend('objectivec', Objectivec::class);
             Form::extend('scala', Scala::class);
-            Form::extend('clang', Kotlin::class);
+            Form::extend('kotlin', Kotlin::class);
             Form::extend('ceylon', Ceylon::class);
         });
     }

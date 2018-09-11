@@ -6,5 +6,5 @@ use Encore\Admin\Extension;
 
 class ClikeEditor extends Extension
 {
-    public $name = 'click-editor';
+    public $name = 'clike-editor';
 }

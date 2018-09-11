@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/click-editor",
+    "name": "laravel-admin-ext/clike-editor",
     "description": "Several c-lick language editor extensions for laravel-admin based on code-mirror",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "code-mirror", "editor", "clang", "cpp", "java", "objectivec", "scala", "kotlin", "Ceylon"],
-    "homepage": "https://github.com/laravel-admin-ext/click-editor",
+    "homepage": "https://github.com/laravel-admin-ext/clike-editor",
     "license": "MIT",
     "authors": [
         {
