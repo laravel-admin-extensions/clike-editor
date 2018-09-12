@@ -1,6 +1,8 @@
 Several c-lick language editor extensions for laravel-admin based on code-mirror
 ======
 
+[DEMO](http://demo.laravel-admin.org/code-mirror/clike) (Login using `admin/admin`)
+
 ## Installation 
 
 ```bash
