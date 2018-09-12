@@ -20,6 +20,7 @@ class ClikeEditorServiceProvider extends ServiceProvider
         Admin::booting(function () {
             Form::extend('clang', Clang::class);
             Form::extend('cpp', Cpp::class);
+            Form::extend('csharp', Csharp::class);
             Form::extend('java', Java::class);
             Form::extend('objectivec', Objectivec::class);
             Form::extend('scala', Scala::class);

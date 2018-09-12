@@ -42,6 +42,8 @@ $form->clang('code');
 
 $form->cpp('code');
 
+$form->csharp('code');
+
 $form->java('code');
 
 $form->objectivec('code');
